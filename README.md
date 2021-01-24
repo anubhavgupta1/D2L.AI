@@ -6,3 +6,4 @@
 ## Module 2 : Linear Regression
 * [Implementation from Scratch : Mxnet](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Linear%20Regression/Implementation%20from%20Scratch/mxnet.ipynb)
 * [Implementation from Scratch : Pytorch](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Linear%20Regression/Implementation%20from%20Scratch/pytorch.ipynb)
+* [Implementation from Scratch : Tensorflow]()
