@@ -28,3 +28,7 @@
 * [Concise Implementation : Mxnet](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Multilayer%20Perceptrons/Concise%20Implementation/mxnet.ipynb)
 * [Concise Implementation : Pytorch](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Multilayer%20Perceptrons/Concise%20Implementation/pytorch.ipynb)
 * [Concise Implementation : Tenorflow](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Multilayer%20Perceptrons/Concise%20Implementation/tensorfow.ipynb)
+## Module 6 : Layers and Blocks
+* [Mxnet](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Deep%20Learning%20Computation/Layers%20and%20Blocks/mxnet.ipynb)
+* [Pytorch](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Deep%20Learning%20Computation/Layers%20and%20Blocks/pytorch.ipynb)
+* [Tensorflow](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Activation%20Functions/tensorflow.ipynb)
