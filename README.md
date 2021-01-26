@@ -40,3 +40,13 @@
 * [Mxnet](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Deep%20Learning%20Computation/GPU%20Management/mxnet.ipynb)
 * [Pytorch](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Deep%20Learning%20Computation/GPU%20Management/pytorch.ipynb)
 * [Tensorflow](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Deep%20Learning%20Computation/GPU%20Management/tensorflow.ipynb)
+## Module 9 : Deep Convolutional Neural Networks: Mxnet
+* [LeNet](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Deep%20Convolutional%20Neural%20Networks/LeNet/mxnet.ipynb)
+* [AlexNet](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Deep%20Convolutional%20Neural%20Networks/AlexNet/mxnet.ipynb)
+* [VGG](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Deep%20Convolutional%20Neural%20Networks/VGG/mxnet.ipynb)
+* [Nin Blocks](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Deep%20Convolutional%20Neural%20Networks/NiN%20Blocks/mxnet.ipynb)
+* [GoogleNet](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Deep%20Convolutional%20Neural%20Networks/GoogleNet/mxnet.ipynb)
+* [Batch Norm LeNet](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Deep%20Convolutional%20Neural%20Networks/Batch%20Norm%20LeNet/mxnet.ipynb)
+* [Concise Batch Norm LeNet](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Deep%20Convolutional%20Neural%20Networks/Concise%20Batch%20Norm%20LeNet/mxnet.ipynb)
+* [ResNet](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Deep%20Convolutional%20Neural%20Networks/ResNet/mxnet.ipynb)
+* [DenseNet](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Deep%20Convolutional%20Neural%20Networks/DenseNet/mxnet.ipynb)
