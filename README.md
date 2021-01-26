@@ -16,4 +16,4 @@
 * [Implementation from Scratch : Tensorflow](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Softmax%20Regression/Implementation%20from%20Scratch/tensorflow.ipynb)
 * [Concise Implementation : Mxnet](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Softmax%20Regression/Concise%20Implementation/mxnet.ipynb)
 * [Concise Implementation : Pytorch](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Softmax%20Regression/Concise%20Implementation/pytorch.ipynb)
-* [Concise Implementation : Tenorflow]()
+* [Concise Implementation : Tenorflow](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Softmax%20Regression/Concise%20Implementation/tensorflow.ipynb)
