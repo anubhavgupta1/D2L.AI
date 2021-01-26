@@ -40,7 +40,7 @@
 * [Mxnet](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Deep%20Learning%20Computation/GPU%20Management/mxnet.ipynb)
 * [Pytorch](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Deep%20Learning%20Computation/GPU%20Management/pytorch.ipynb)
 * [Tensorflow](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Deep%20Learning%20Computation/GPU%20Management/tensorflow.ipynb)
-## Module 9 : Deep Convolutional Neural Networks: Mxnet
+## Module 9 : Deep Convolutional Neural Networks : Mxnet
 * [LeNet](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Deep%20Convolutional%20Neural%20Networks/LeNet/mxnet.ipynb)
 * [AlexNet](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Deep%20Convolutional%20Neural%20Networks/AlexNet/mxnet.ipynb)
 * [VGG](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Deep%20Convolutional%20Neural%20Networks/VGG/mxnet.ipynb)
