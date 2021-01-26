@@ -26,5 +26,5 @@
 * [Implementation from Scratch : Pytorch](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Multilayer%20Perceptrons/Implementation%20from%20Scratch/pytorch.ipynb)
 * [Implementation from Scratch : Tensorflow](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Multilayer%20Perceptrons/Implementation%20from%20Scratch/tensorflow.ipynb)
 * [Concise Implementation : Mxnet](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Multilayer%20Perceptrons/Concise%20Implementation/mxnet.ipynb)
-* [Concise Implementation : Pytorch]()
+* [Concise Implementation : Pytorch](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Multilayer%20Perceptrons/Concise%20Implementation/pytorch.ipynb)
 * [Concise Implementation : Tenorflow]()
