@@ -21,3 +21,10 @@
 * [Mxnet](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Activation%20Functions/mxnet.ipynb)
 * [Pytorch](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Activation%20Functions/pytorch.ipynb)
 * [Tensorflow](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Activation%20Functions/tensorflow.ipynb)
+## Module 5 : Multilayer Perceptrons
+* [Implementation from Scratch : Mxnet](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Multilayer%20Perceptrons/Implementation%20from%20Scratch/mxnet.ipynb)
+* [Implementation from Scratch : Pytorch]()
+* [Implementation from Scratch : Tensorflow]()
+* [Concise Implementation : Mxnet]()
+* [Concise Implementation : Pytorch]()
+* [Concise Implementation : Tenorflow]()
