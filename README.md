@@ -36,3 +36,7 @@
 * [Mxnet](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Deep%20Learning%20Computation/Parameters%20Management/mxnet.ipynb)
 * [Pytorch](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Deep%20Learning%20Computation/Parameters%20Management/pytorch.ipynb)
 * [Tensorflow](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Deep%20Learning%20Computation/Parameters%20Management/tensorflow.ipynb)
+## Module 7 : GPU Management
+* [Mxnet](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Deep%20Learning%20Computation/GPU%20Management/mxnet.ipynb)
+* [Pytorch]()
+* [Tensorflow]()
