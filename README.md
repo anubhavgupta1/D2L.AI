@@ -10,3 +10,10 @@
 * [Concise Implementation : Mxnet](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Linear%20Regression/Concise%20Implementation/mxnet.ipynb)
 * [Concise Implementation : Pytorch](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Linear%20Regression/Concise%20Implementation/pytorch.ipynb)
 * [Concise Implementation : Tenorflow](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Linear%20Regression/Concise%20Implementation/tensorflow.ipynb)
+## Module 2 : Softmax Regression
+* [Implementation from Scratch : Mxnet]()
+* [Implementation from Scratch : Pytorch]()
+* [Implementation from Scratch : Tensorflow]()
+* [Concise Implementation : Mxnet]()
+* [Concise Implementation : Pytorch]()
+* [Concise Implementation : Tenorflow]()
