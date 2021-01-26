@@ -19,5 +19,5 @@
 * [Concise Implementation : Tenorflow](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Softmax%20Regression/Concise%20Implementation/tensorflow.ipynb)
 ## Module 4 : Activation Functions
 * [Mxnet](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Activation%20Functions/mxnet.ipynb)
-* [Pytorch]()
+* [Pytorch](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Activation%20Functions/pytorch.ipynb)
 * [Tensorflow]()
