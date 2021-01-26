@@ -32,7 +32,7 @@
 * [Mxnet](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Deep%20Learning%20Computation/Layers%20and%20Blocks/mxnet.ipynb)
 * [Pytorch](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Deep%20Learning%20Computation/Layers%20and%20Blocks/pytorch.ipynb)
 * [Tensorflow](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Deep%20Learning%20Computation/Layers%20and%20Blocks/tensorflow.ipynb)
-## Module 6 : Parameters Management
+## Module 7 : Parameters Management
 * [Mxnet](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Deep%20Learning%20Computation/Parameters%20Management/mxnet.ipynb)
 * [Pytorch](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Deep%20Learning%20Computation/Parameters%20Management/pytorch.ipynb)
 * [Tensorflow](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Deep%20Learning%20Computation/Parameters%20Management/tensorflow.ipynb)
