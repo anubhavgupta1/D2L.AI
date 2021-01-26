@@ -24,7 +24,7 @@
 ## Module 5 : Multilayer Perceptrons
 * [Implementation from Scratch : Mxnet](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Multilayer%20Perceptrons/Implementation%20from%20Scratch/mxnet.ipynb)
 * [Implementation from Scratch : Pytorch](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Multilayer%20Perceptrons/Implementation%20from%20Scratch/pytorch.ipynb)
-* [Implementation from Scratch : Tensorflow]()
+* [Implementation from Scratch : Tensorflow](https://github.com/anubhavgupta1/Dive-Into-Deep-Learning/blob/main/Multilayer%20Perceptrons/Implementation%20from%20Scratch/tensorflow.ipynb)
 * [Concise Implementation : Mxnet]()
 * [Concise Implementation : Pytorch]()
 * [Concise Implementation : Tenorflow]()
